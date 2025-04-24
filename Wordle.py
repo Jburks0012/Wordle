@@ -93,7 +93,6 @@ def start():
 
 
 # A method that gets a random word from a file.
-# You should not change this function.
 def getRandomWord():
     # Choose the word to be the answer for testing purposes.
     if len(sys.argv) > 1:
